@@ -6,7 +6,7 @@ int number = 10;
 
 Countdown();
 
-//Recursive loop that decriments the 'number' by one. The If statement will return when the number reaches 1.
+//Recursive function that decriments the 'number' by one. The If statement will return when the number reaches 1.
 void Countdown()
 {
     
